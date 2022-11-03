@@ -1,0 +1,4 @@
+IDS = []
+TXT = []
+VAL = []
+SALIDA = []

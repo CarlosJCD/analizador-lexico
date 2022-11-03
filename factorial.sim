@@ -1,0 +1,15 @@
+IDS
+prueba id01
+VarX id02
+VarY id03
+Num id04
+VarZ id05
+
+TXT
+"Variable X es" txt01
+"Varaible Z es" txt02
+
+VAL
+100 100
+0xA1 161
+0x1D 29

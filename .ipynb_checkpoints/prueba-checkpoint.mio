@@ -1,0 +1,9 @@
+# Programa fuente en el lenguaje MIO para expresiones aritméticas PROGRAMA prueba
+# declaraciones de variables
+VarX = 100
+VarY = 0xA1
+LEE Num
+VarZ = VarY + 0x1D
+VarX = VarX * Num IMPRIME “Variable X es” IMPRIME VarX
+IMPRIME “Varaible Z es“ IMPRIME VarZ
+FINPROG
