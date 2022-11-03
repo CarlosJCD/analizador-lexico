@@ -7,5 +7,5 @@ Interfaz de linea de comandos del analizador lexico para el lenguaje MIO, hecho 
 ## Integrantes:
 
  - Carlos Javier Calderon Delgado - [@CarlosJCD](https://github.com/CarlosJCD)
- - Elias Madera De Regil - [@EliasMDR]()
+ - Elias Madera De Regil - [@EliasMaDeRe](https://github.com/EliasMaDeRe)
  - Alan Alfonso Perez Romero - [@Alambrep](https://github.com/Alambrep)
