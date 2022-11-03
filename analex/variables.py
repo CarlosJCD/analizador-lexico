@@ -1,4 +1,0 @@
-IDS = []
-TXT = []
-VAL = []
-SALIDA = []
