@@ -2,7 +2,7 @@
 
 ## Acerca de
  
-Interfaz de linea de comandos del analizador lexico para el lenguaje MIO, hecho con python y jupyter notebook
+Interfaz de linea de comandos del analizador lexico para el lenguaje MIO, codificado en python usando jupyter notebook
 
 ## Integrantes:
 
@@ -23,4 +23,4 @@ $ python analex.py test.mio
 
 Esto ha de generar 2 archivos, un archivo `lex.test` y `factorial.sim`
 
-**NOTA:** Es importante que se encuentre en el mismo nivel el archivo .mio y el archivo 'analex.py'
+**NOTA:** Es importante que se encuentre en el mismo directorio el archivo .mio y el archivo 'analex.py'
