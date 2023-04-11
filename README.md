@@ -2,7 +2,7 @@
 
 ## Acerca de
  
-Interfaz de linea de comandos del analizador lexico para el lenguaje MIO, codificado en python usando jupyter notebook
+Interfaz de linea de comandos del analizador lexico para el lenguaje MIO, codificado en python.
 
 ## Integrantes:
 
